@@ -12,9 +12,10 @@ Steps to get this script to work (for Noobs);
 
 Create a folder on your desktop called <i>Airtags</i> (case sensitive)<BR>
 Install brew (<A HREF="wwww.brew.sh" TARGET=new>www.brew.sh</A>)<BR>
+
   Install the jq utility (<i>brew install jq</I>)<BR>
   Change the directory to the newly created Airtags folder by typing <i>cd ~/Desktop/Airtags</I><BR>
-  Clone this repo by typing <i>git clone https://github.com/icepick3000/AirtagAlex.git</I><BR>
+  Clone this repo by typing <i>git clonehttps://github.com/DoctorOgg/AirtagAlex.git</I><BR>
   Go into the repo directory by typing <i>cd ~/Desktop/Airtags/AirtagAlex</I><BR>
   Make the shell file executable by typing <I>chmod 700 AirtagAlex.sh</I><BR>
   
